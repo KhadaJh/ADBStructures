@@ -1,0 +1,64 @@
+Colombia  
+James_Rodriguez Alvaro_Montero David_Ospina Camilo_Vargas Jhon_Lucumi Carlos_Cuesta Yerson_Mosquera Juan_Cabal Johan_Mojica Gabriel_Fuentes Daniel_Munoz
+0.00158 
+
+Peru
+Pedro_Gallese Renato_Solis Luis_Abram Anderson_Santamaria Aldo_Corzo Luis_Advincula Carlos_Ascues Erick_Noriega Alexander_Callens Marcos_Lopez Miguel_Trauco 
+0.0011
+
+Chile
+Brayan_Cortez Guillermo_Maripan Paulo_Diaz Sebastian_Vegas Matias_Catalan Gabriel_Sauzo Nicolas_Diaz Oscar_Opazo Erick_Pulgar Williams_Alarcon Claudio_Baeza 
+0.00067
+
+Mexico
+Luis_Malagon Johan_Vasquez Jesus_Chiquete Julian_Araujo Jorge_Sanchez Erick_Aguirre Luis_Chavez Carlos_Rodriguez Luis_Romo Erick_Sanchez Hirving_Lozano
+0.00112
+
+Ecuador
+Javier_Burrai Piero_Hincapie Felix_Torres Joel_Ordoñez Robert_Arboleda Leonardo_Realpe Anibal_Chala Moises_Caicedo Jose_Cifuentes John_Yeboa Angel_Mena
+0.00052
+
+Venezuela
+Joel_Graterol Yordan_Osorio Nahuel_Ferraresi Wilker_Angel Jon_Aramburu Jose_Martinez Jesus_Bueno Teo_Quintero Kevin_Andrade Darwin_Machis Enrique_Peña
+0.00039
+
+Jamaica
+Andre_Blake Damion_Lowe Richard_King Greg_Leigh Tavyon_Gray Kasey_Palmer Daniel_Johnson Renaldo_Cephas Jamal_Lowe Cory_Burke Romario_Williams
+0.0019
+
+Estados_Unidos
+Matt_Turner Chris_Richards Tim_Ream Antonee_Robinson Joe_Scally Weston_McKennie Yunus_Musah Johnny_Cardoso Malik_Tilman Ricardo_Pepi Haji_Wright
+0.00154
+
+Uruguay
+Randall_Rodriguez Ronald_Araujo Bruno_Mendez Nicolas_Marichal Matias_Viña Lucas_Olaza Manuel_Ugarte Nicolas_Fonseca Nahitan_Vecino Brian_Rodriguez Facundo_Torres
+0.00141
+
+Panama
+Luis_Mejia Jose_Cordoba Andres_Andrade Eric_Davis Ivan_Anderson Christian_Martinez Anibal_Godoy Abdiel_Ayarza Puma Ismael_Diaz Kahiser_Lenis
+0.00157
+
+Bolivia
+Guillermo_Vizcarra Jose_Sagredo Luis_Haquin Diego_Medina Yomar_Rocha Boris_Cespedes Pablo_Vaca Robson_Matheus Romiro_Vaca Jaume_Cuellar Rodrigo_Ramallo
+0.00087
+
+Brasil
+Bento Bremer Danilo Murilo Wendel Yan_Couto Andre Pablo_Maia Lucas_Paqueta Andreas_Pereira Vinicius_Junior
+0.00081
+
+Argentina
+Franco_Armani Nehuen_Perez German_Pezzella Nicolas_Tagliafico Guido_Rodriguez Leandro_Paredes Enzo_Fernandez Facundo_Buonanotte Valentin_Carboni Angel_Di_Maria Julian_Alvarez
+0.0015
+
+Costa_Rica
+Keylor_Navas Juan_Vargas Fernan_Faerron Pablo_Airboine Gerald_Taylor Yael_Lopez Alejandro_Bran Orlando_Galo Elias_Aguilar Brandon_Aguilera Alvaro_Zamora
+0.00112
+
+Paraguay
+Carlos_Coronel Omar_Alderete Gustavo_Velazquez Fabian_Balbuena Andres_Cubas Fabrizzio_Peralta Damian_Bobadilla Hernesto_Caballero Julio_Enciso Diego_Gomez Miguel_Almiron
+0.000161
+
+Canada
+
+Daine_Saint_Clair Kamal_Miller Derek_Cornelius Joel_Waterman Alistair_Johnston Liam_Fraser Mathieu_Choiniere Tajon_Buchanan Liam_Millar Jonathan_David Cyle_Larin
+0.00159
